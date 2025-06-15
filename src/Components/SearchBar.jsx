@@ -1,3 +1,6 @@
+// SearchBar component with a search icon and rounded input field.
+// It accepts `value` and `onChange` props to control input from the parent component.
+
 import React from 'react';
 import { FaSearch } from 'react-icons/fa';
 
