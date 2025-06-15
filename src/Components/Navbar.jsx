@@ -1,3 +1,7 @@
+
+// Navbar component with navigation links and a hover-based popover.
+// Includes a branded title and an "About" link that shows info on hover.
+// The popover gives a brief explanation of what a Learning Support Provider is.
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
