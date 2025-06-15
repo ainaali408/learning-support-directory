@@ -1,3 +1,5 @@
+// Banner component displays a top banner image related to learning support.
+// The image is responsive and styled with shadow and cover fit.
 import BannerImg from "../assets/learningImg.webp";
 const Banner = () => {
   return (
