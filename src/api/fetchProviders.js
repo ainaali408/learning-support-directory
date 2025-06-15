@@ -1,3 +1,5 @@
+// Simulates an API call by loading local JSON data with a delay
+
 import data from '../data/providers.json';
 
 export const fetchProviders = () => {
