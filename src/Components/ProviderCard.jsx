@@ -1,3 +1,6 @@
+// ProviderCard component displays individual provider info inside a styled card.
+// It includes an icon above the card and shows details like name, specialization, location, and rating.
+// The entire card and icon are clickable, linking to a detailed provider page.
 import { Link } from "react-router-dom";
 
 const ProviderCard = ({ provider }) => {
