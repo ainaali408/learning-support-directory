@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "name": "Bright Minds",
+    "specialization": "Dyslexia Support",
+    "location": "A-12, Sector 62, Noida, Uttar Pradesh",
+    "rating": 4.5,
+    "shortDescription": "Expert help for dyslexic students.",
+    "longDescription": "We specialize in helping students with Dyslexia succeed academically through structured programs.",
+    "contactEmail": "brightminds@example.com",
+    "phoneNumber": "9876543210"
+  },
+  {
+    "id": "2",
+    "name": "Focus First",
+    "specialization": "ADHD Coaching",
+    "location": "Mumbai",
+    "rating": 4.2,
+    "shortDescription": "Helping students with attention challenges.",
+    "longDescription": "Focus First supports children with ADHD through personalized coaching and behavioral strategies.",
+    "contactEmail": "focusfirst@example.com",
+    "phoneNumber": "9123456789"
+  },
+  {
+    "id": "3",
+    "name": "SkillSpark Center",
+    "specialization": "Autism Therapy",
+    "location": "23, Bannerghatta Road, Bengaluru, Karnataka",
+    "rating": 4.7,
+    "shortDescription": "Support for children on the autism spectrum.",
+    "longDescription": "SkillSpark offers speech and occupational therapy tailored for kids with autism spectrum disorder.",
+    "contactEmail": "skillspark@example.com",
+    "phoneNumber": "9988776655"
+  },
+  {
+    "id": "4",
+    "name": "The Learning Tree",
+    "specialization": "Speech and Language Therapy",
+    "location": "12, Park Street, Kolkata, West Bengal",
+    "rating": 4.6,
+    "shortDescription": "Enhancing communication skills.",
+    "longDescription": "The Learning Tree focuses on improving language development and communication through personalized speech therapy.",
+    "contactEmail": "learningtree@example.com",
+    "phoneNumber": "9001122334"
+  },
+  {
+    "id": "5",
+    "name": "MindBridge Center",
+    "specialization": "Behavioral Therapy",
+    "location": "3rd Floor, Phoenix Towers, Hitech City, Hyderabad",
+    "rating": 4.8,
+    "shortDescription": "Behavioral support for all ages.",
+    "longDescription": "MindBridge offers therapy sessions to address behavioral issues and support mental well-being of children and teens.",
+    "contactEmail": "mindbridge@example.com",
+    "phoneNumber": "9845001122"
+  },
+  {
+    "id": "6",
+    "name": "Hope Harbor",
+    "specialization": "Learning Disability Assessment",
+    "location": "Viman Nagar, Pune, Maharashtra",
+    "rating": 4.3,
+    "shortDescription": "Accurate assessments and reports.",
+    "longDescription": "Hope Harbor provides diagnostic services for learning disabilities and works with schools and parents for support strategies.",
+    "contactEmail": "hopeharbor@example.com",
+    "phoneNumber": "9654321890"
+  },
+  {
+    "id": "7",
+    "name": "Rise and Shine",
+    "specialization": "Inclusive Education Consulting",
+    "location": "Civil Lines, Jaipur, Rajasthan",
+    "rating": 4.1,
+    "shortDescription": "Creating inclusive learning environments.",
+    "longDescription": "Rise and Shine trains schools and teachers to create inclusive classrooms for children with special learning needs.",
+    "contactEmail": "riseandshine@example.com",
+    "phoneNumber": "9911223344"
+  }
+]
