@@ -1,3 +1,5 @@
+// About component displays a styled section explaining what Learning Support Providers do.
+// It includes a title and descriptive text within a bordered container aligned to the top-left of the page.
 
 function About() {
   return (
